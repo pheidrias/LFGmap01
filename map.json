@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"room1"
+                 "value":"room1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
