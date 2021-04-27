@@ -22,7 +22,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"office"
+                 "value":"https:\/\/feiningergymnasium-my.sharepoint.com\/:p:\/r\/personal\/jan_klingler_feininger-gymnasium_de\/_layouts\/15\/Doc.aspx?sourcedoc=%7Bf75e0921-1077-4dea-bdb1-871f26e211a4%7D&amp=&action=embedview&wdAr=1.7777777777777777"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -502,7 +502,7 @@
                  "id":3,
                  "properties":[
                         {
-                         "name":"collide",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
