@@ -71,7 +71,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"map.json#start-magic1"
                 }],
@@ -89,7 +89,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"map.json#start-magic2"
                 }],
@@ -107,7 +107,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitURL",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"map.json#start-magic3"
                 }],
@@ -214,6 +214,11 @@
                  "value":true
                 }, 
                 {
+                 "name":"audioVolume",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":".\/music\/musicloopsminiset2\/LFT1.mp3"
@@ -231,6 +236,11 @@
          "name":"sound 2",
          "opacity":1,
          "properties":[
+                {
+                 "name":"audioLoop",
+                 "type":"bool",
+                 "value":true
+                }, 
                 {
                  "name":"audioVolume",
                  "type":"int",
