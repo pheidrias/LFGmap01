@@ -91,7 +91,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#start-magic2"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
