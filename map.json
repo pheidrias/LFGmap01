@@ -179,7 +179,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"music\/musicloopsminiset2\/Lyric & Fantasy Theme #2.mp3"
+                 "value":"Short Action Rock Loop #2.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -202,7 +202,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"music\/musicloopsminiset2\/LFT1.mp3"
+                 "value":"Short Action Rock Loop #2.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
