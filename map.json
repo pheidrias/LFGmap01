@@ -933,7 +933,7 @@
                  "y":682
                 }, 
                 {
-                 "height":43.5,
+                 "height":57,
                  "id":10,
                  "name":"",
                  "rotation":0,
@@ -941,14 +941,14 @@
                     {
                      "fontfamily":"Arial",
                      "pixelsize":13,
-                     "text":"externe, nicht selbst gemachte Karte",
+                     "text":"externe, nicht selbst gemachte Karte, Ausgang ganz oben",
                      "wrap":true
                     },
                  "type":"",
                  "visible":true,
                  "width":119.4219,
-                 "x":740.28905,
-                 "y":136
+                 "x":740.78905,
+                 "y":131.5
                 }],
          "opacity":1,
          "type":"objectgroup",
