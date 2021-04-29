@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"klasse51.json"
+                 "value":"klasse52.json"
                 }],
          "type":"tilelayer",
          "visible":true,
