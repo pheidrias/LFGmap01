@@ -787,7 +787,7 @@
                 {
                  "name":"zone",
                  "type":"string",
-                 "value":"pop1"
+                 "value":"myZone"
                 }],
          "type":"tilelayer",
          "visible":true,
