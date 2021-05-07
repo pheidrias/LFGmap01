@@ -2,7 +2,7 @@ let helloWorldPopup;
 
 // Open the popup when we enter a given zone
 helloWorldPopup = WA.onEnterZone('pop1', () => {
-    WA.openPopup("popupRectangle", 'Vorsicht! Der Friedhoft spielt verrückt...kommst Du ins Labor?', [{
+    WA.openPopup("popupRectangle", "Vorsicht! Der Friedhoft spielt verrückt...kommst Du ins Labor?", [{
         label: "Close",
         className: "primary",
         callback: (popup) => {
