@@ -881,6 +881,23 @@
                  "width":98.588541666667,
                  "x":2648.37239583333,
                  "y":425.166666666667
+                }, 
+                {
+                 "height":41,
+                 "id":16,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "color":"#ffffff",
+                     "text":"Finde den Weg zur Insel durch den Wald!",
+                     "wrap":true
+                    },
+                 "type":"",
+                 "visible":true,
+                 "width":249.921875,
+                 "x":161.0390625,
+                 "y":695.833333333333
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -924,7 +941,7 @@
          "y":0
         }],
  "nextlayerid":87,
- "nextobjectid":16,
+ "nextobjectid":17,
  "orientation":"orthogonal",
  "properties":[
         {
